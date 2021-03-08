@@ -1,1 +1,9 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "it.digitechsolutions.keyless",
+    "sha256_cert_fingerprints":
+    ["3D:1E:A6:B2:2B:EE:68:19:3B:8B:6F:13:5E:24:53:58:C6:0F:1C:1A:D6:57:E0:E1:F5:45:71:AB:13:62:D0:81"]
+  }
+}]
